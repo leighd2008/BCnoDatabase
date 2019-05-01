@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/BCnoDatabase/static/media/Albertson10U-2.6ab4d152.JPG"
   },
   {
-    "revision": "658092bfb14f0987e964",
-    "url": "/BCnoDatabase/static/css/main.20ca4ca5.chunk.css"
+    "revision": "4de2b758c34c017499cc",
+    "url": "/BCnoDatabase/static/css/main.b8b94552.chunk.css"
   },
   {
     "revision": "1df91efb4f2fb3a09f9e",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/BCnoDatabase/static/media/ABPitchingbg.9fa9f64e.jpg"
   },
   {
-    "revision": "57942b9e7fe09b9875d0",
+    "revision": "f52f22316054acbcf192",
     "url": "/BCnoDatabase/static/js/2.768a2649.chunk.js"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/BCnoDatabase/static/media/Albertson10U-1.8fa16e2b.JPG"
   },
   {
-    "revision": "658092bfb14f0987e964",
-    "url": "/BCnoDatabase/static/js/main.778dd924.chunk.js"
+    "revision": "4de2b758c34c017499cc",
+    "url": "/BCnoDatabase/static/js/main.f6b5a97e.chunk.js"
   },
   {
     "revision": "78f45b4fcb7165928e8ceb7e63e78831",
@@ -92,11 +92,11 @@ self.__precacheManifest = [
     "url": "/BCnoDatabase/static/media/spinner.91e97e42.svg"
   },
   {
-    "revision": "57942b9e7fe09b9875d0",
-    "url": "/BCnoDatabase/static/css/2.fb00ffd3.chunk.css"
+    "revision": "f52f22316054acbcf192",
+    "url": "/BCnoDatabase/static/css/2.a3b072fe.chunk.css"
   },
   {
-    "revision": "f6595e65d51a7c7c47af0145cf6d773e",
+    "revision": "73eb113525b64672cc52ad76fb1ecda9",
     "url": "/BCnoDatabase/index.html"
   }
 ];
