@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BCnoDatabase/precache-manifest.c8e4196a826cc57288c48e418a7be8df.js"
+  "/BuckeyeCharge/precache-manifest.dba6a5581bd2592cd273cc6cf2d22436.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/BCnoDatabase/index.html", {
+workbox.routing.registerNavigationRoute("/BuckeyeCharge/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
