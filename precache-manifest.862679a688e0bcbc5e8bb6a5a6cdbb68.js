@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Albertson10U-2.6ab4d152.JPG"
   },
   {
-    "revision": "712778c6190b370423ee",
-    "url": "/BuckeyeCharge/static/css/main.87728ce1.chunk.css"
+    "revision": "a74b3fda0ab6d4d5123b",
+    "url": "/BuckeyeCharge/static/css/main.85ef0731.chunk.css"
   },
   {
     "revision": "618d0f8afc4af7322573",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/ABPitchingbg.9fa9f64e.jpg"
   },
   {
-    "revision": "5bf9faad14be2e081374",
-    "url": "/BuckeyeCharge/static/js/2.28ad393e.chunk.js"
+    "revision": "2c90a147c3a0aa2aff31",
+    "url": "/BuckeyeCharge/static/js/2.522740ef.chunk.js"
   },
   {
     "revision": "c5a4196214d9cf945a4d62e189830bda",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/ABPitching.d8f16a7b.jpg"
   },
   {
+    "revision": "89f88640fc1860fe3c4d6f35390ff5ee",
+    "url": "/BuckeyeCharge/static/media/Alanna_teaching.89f88640.JPG"
+  },
+  {
     "revision": "8b4feffdb8a8783e23aff1ee4cfa8f9b",
     "url": "/BuckeyeCharge/static/media/catch.8b4feffd.JPG"
   },
@@ -48,8 +52,8 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Albertson10U-1.8fa16e2b.JPG"
   },
   {
-    "revision": "712778c6190b370423ee",
-    "url": "/BuckeyeCharge/static/js/main.4b144c5e.chunk.js"
+    "revision": "a74b3fda0ab6d4d5123b",
+    "url": "/BuckeyeCharge/static/js/main.1d2bf568.chunk.js"
   },
   {
     "revision": "78f45b4fcb7165928e8ceb7e63e78831",
@@ -92,11 +96,11 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/spinner.91e97e42.svg"
   },
   {
-    "revision": "5bf9faad14be2e081374",
+    "revision": "2c90a147c3a0aa2aff31",
     "url": "/BuckeyeCharge/static/css/2.a3b072fe.chunk.css"
   },
   {
-    "revision": "3b13e6e8f410912810da7357fce05d1e",
+    "revision": "f88391135bcef7a13af41ccf7a6d2d55",
     "url": "/BuckeyeCharge/index.html"
   }
 ];
