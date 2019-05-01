@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/BCnoDatabase/static/media/Albertson10U-2.6ab4d152.JPG"
   },
   {
-    "revision": "5759110706225560ec49",
+    "revision": "658092bfb14f0987e964",
     "url": "/BCnoDatabase/static/css/main.20ca4ca5.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/BCnoDatabase/static/media/Albertson10U-1.8fa16e2b.JPG"
   },
   {
-    "revision": "5759110706225560ec49",
-    "url": "/BCnoDatabase/static/js/main.84988dcd.chunk.js"
+    "revision": "658092bfb14f0987e964",
+    "url": "/BCnoDatabase/static/js/main.778dd924.chunk.js"
   },
   {
     "revision": "78f45b4fcb7165928e8ceb7e63e78831",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/BCnoDatabase/static/css/2.fb00ffd3.chunk.css"
   },
   {
-    "revision": "22b0e8a9d9292e31bc011df53b6b3422",
+    "revision": "f6595e65d51a7c7c47af0145cf6d773e",
     "url": "/BCnoDatabase/index.html"
   }
 ];
