@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BCnoDatabase/precache-manifest.b5828e6ba9299b427c23b4dd1ea5c545.js"
+  "/BCnoDatabase/precache-manifest.c8e4196a826cc57288c48e418a7be8df.js"
 );
 
 workbox.clientsClaim();
