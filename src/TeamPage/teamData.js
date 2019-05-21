@@ -939,7 +939,7 @@ export const teamData = [
     fieldAddress2: "Leavittsburg, Ohio 44430",
     location: "Warren, Ohio",
     googleMapLink: "https://goo.gl/maps/TSZ2T6Ti4oo",
-    teamPic: 'Warren12U.jpg',
+    teamPic: 'Warren12Unew.jpg',
     roster: [
       {
         jersey_num: 5,
@@ -1090,7 +1090,7 @@ export const teamData = [
     fieldImage: '../images/mark-duffel-352915-unsplash2.jpg',
     eventUrls: true,
     photoGallery: true,
-    scoreboard: "//gc.com/team-5c85359b955e067a733c24e7/scoreboard?g=5&p=5bafd0a9b7ce48001b2f2705",
+    scoreboard: "//gc.com/team-5ca84e8d32e933b1ee000101/scoreboard?g=5&p=5bafd0a9b7ce48001b2f2705",
   },
   {
     id: 8,
@@ -1274,7 +1274,7 @@ export const teamData = [
     fieldAddress2: "Akron, Ohio 44312",
     location: "Akron, Ohio",
     googleMapLink: "https://goo.gl/maps/a9NZ6ZDooJm",
-    teamPic: 'Albertson10U-1.JPG',
+    teamPic: 'Albertson10U.JPG',
     roster: [
       {
         jersey_num: "00",

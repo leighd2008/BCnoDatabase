@@ -17,6 +17,11 @@
   background-color: transparent !important;
 }
 
+.abpitching {
+  color: black !important;
+  text-shadow: -0px 0 black, 0 0px black, 0px 0 black, 0 -0px black;
+}
+
 .alanna {
   width: 70%
   
