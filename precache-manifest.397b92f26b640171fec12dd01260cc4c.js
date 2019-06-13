@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Albertson10U-3.78f45b4f.JPG"
   },
   {
-    "revision": "65b09fec294b0797f5e9",
+    "revision": "ff7cca51f00d81b44a80",
     "url": "/BuckeyeCharge/static/css/main.7087b420.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/ABPitchingbg.9fa9f64e.jpg"
   },
   {
-    "revision": "29e559a1507d7b9d8d7b",
-    "url": "/BuckeyeCharge/static/js/2.4ac84a1b.chunk.js"
+    "revision": "6a99a334e4758872c833",
+    "url": "/BuckeyeCharge/static/js/2.ff2f3975.chunk.js"
   },
   {
     "revision": "c5a4196214d9cf945a4d62e189830bda",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Albertson10U-2.6ab4d152.JPG"
   },
   {
-    "revision": "65b09fec294b0797f5e9",
-    "url": "/BuckeyeCharge/static/js/main.bc549b05.chunk.js"
+    "revision": "ff7cca51f00d81b44a80",
+    "url": "/BuckeyeCharge/static/js/main.9710bb87.chunk.js"
   },
   {
     "revision": "cd95b1a5ef49c42e44eab15ab27529f0",
@@ -104,11 +104,11 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/spinner.91e97e42.svg"
   },
   {
-    "revision": "29e559a1507d7b9d8d7b",
+    "revision": "6a99a334e4758872c833",
     "url": "/BuckeyeCharge/static/css/2.a3b072fe.chunk.css"
   },
   {
-    "revision": "218c633455bc459b5fc2ef905b91552f",
+    "revision": "2bb90825bf6499bf4dd87561b8bff43a",
     "url": "/BuckeyeCharge/index.html"
   }
 ];
