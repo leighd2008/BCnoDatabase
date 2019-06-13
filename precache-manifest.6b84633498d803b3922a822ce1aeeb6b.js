@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Albertson10U-3.78f45b4f.JPG"
   },
   {
-    "revision": "d1588954604b0597ac34",
+    "revision": "65b09fec294b0797f5e9",
     "url": "/BuckeyeCharge/static/css/main.7087b420.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Albertson10U-2.6ab4d152.JPG"
   },
   {
-    "revision": "d1588954604b0597ac34",
-    "url": "/BuckeyeCharge/static/js/main.da5901be.chunk.js"
+    "revision": "65b09fec294b0797f5e9",
+    "url": "/BuckeyeCharge/static/js/main.bc549b05.chunk.js"
   },
   {
     "revision": "cd95b1a5ef49c42e44eab15ab27529f0",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Warren12Unew.3902275c.jpg"
   },
   {
-    "revision": "6cbdc03a363d9fb3cc11f98d8f1eab2b",
-    "url": "/BuckeyeCharge/static/media/Yoder14U.6cbdc03a.JPG"
+    "revision": "0f7972b6b248aefdc32583456b43129a",
+    "url": "/BuckeyeCharge/static/media/Yoder14U.0f7972b6.JPG"
   },
   {
     "revision": "4501c2285f2f973a05a293681e438722",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/css/2.a3b072fe.chunk.css"
   },
   {
-    "revision": "e3740c4670edcb245a70d654341bf82d",
+    "revision": "218c633455bc459b5fc2ef905b91552f",
     "url": "/BuckeyeCharge/index.html"
   }
 ];
