@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/css/2.a3b072fe.chunk.css"
   },
   {
-    "revision": "dbadd2e18bddadf439125eda5703b486",
+    "revision": "2bb90825bf6499bf4dd87561b8bff43a",
     "url": "/BuckeyeCharge/index.html"
   }
 ];
