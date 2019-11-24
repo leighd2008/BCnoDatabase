@@ -1,51 +1,39 @@
-self.__precacheManifest = [
+self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "791fd9f7b49b40688588",
-    "url": "/BuckeyeCharge/static/css/main.f4021398.chunk.css"
+    "revision": "0990a0638d110a25d231e7d27a2779d8",
+    "url": "/BuckeyeCharge/index.html"
   },
   {
-    "revision": "791fd9f7b49b40688588",
-    "url": "/BuckeyeCharge/static/js/main.9710bb87.chunk.js"
+    "revision": "42ab8ad447668c3258d9",
+    "url": "/BuckeyeCharge/static/css/2.580f26c3.chunk.css"
   },
   {
-    "revision": "618d0f8afc4af7322573",
-    "url": "/BuckeyeCharge/static/js/runtime~main.c69cba45.js"
+    "revision": "c89a6dc2c8988649623b",
+    "url": "/BuckeyeCharge/static/css/main.f77902de.chunk.css"
   },
   {
-    "revision": "12f2823a6bf2d8422119",
-    "url": "/BuckeyeCharge/static/css/2.96ee8e53.chunk.css"
+    "revision": "42ab8ad447668c3258d9",
+    "url": "/BuckeyeCharge/static/js/2.ab2c5fb6.chunk.js"
   },
   {
-    "revision": "12f2823a6bf2d8422119",
-    "url": "/BuckeyeCharge/static/js/2.ff2f3975.chunk.js"
+    "revision": "c89a6dc2c8988649623b",
+    "url": "/BuckeyeCharge/static/js/main.1a16f9ac.chunk.js"
   },
   {
-    "revision": "c5a4196214d9cf945a4d62e189830bda",
-    "url": "/BuckeyeCharge/static/media/mark-duffel-352915-unsplash2.c5a41962.jpg"
-  },
-  {
-    "revision": "01106f0a73c61469d7262fcb35e90f69",
-    "url": "/BuckeyeCharge/static/media/BCLogo-clr.01106f0a.png"
-  },
-  {
-    "revision": "c1df57a5600e25b7840b926bfec40e2c",
-    "url": "/BuckeyeCharge/static/media/BCLogo-blk-sml.c1df57a5.png"
-  },
-  {
-    "revision": "67b856bffb6e87f9153ed7c58283c963",
-    "url": "/BuckeyeCharge/static/media/BC12UTEAMS.67b856bf.png"
+    "revision": "abc034b870bfdebb9be9",
+    "url": "/BuckeyeCharge/static/js/runtime-main.1faaafa1.js"
   },
   {
     "revision": "d8f16a7bdb315d9fb5dd879cd626d551",
     "url": "/BuckeyeCharge/static/media/ABPitching.d8f16a7b.jpg"
   },
   {
-    "revision": "89f88640fc1860fe3c4d6f35390ff5ee",
-    "url": "/BuckeyeCharge/static/media/Alanna_teaching.89f88640.JPG"
+    "revision": "9fa9f64e6c940a608a89cbf1860dd754",
+    "url": "/BuckeyeCharge/static/media/ABPitchingbg.9fa9f64e.jpg"
   },
   {
-    "revision": "8b4feffdb8a8783e23aff1ee4cfa8f9b",
-    "url": "/BuckeyeCharge/static/media/catch.8b4feffd.JPG"
+    "revision": "89f88640fc1860fe3c4d6f35390ff5ee",
+    "url": "/BuckeyeCharge/static/media/Alanna_teaching.89f88640.JPG"
   },
   {
     "revision": "8fa16e2b1934620c448553f5b67a562f",
@@ -68,6 +56,18 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/BC 12U TEAMS.67b856bf.png"
   },
   {
+    "revision": "67b856bffb6e87f9153ed7c58283c963",
+    "url": "/BuckeyeCharge/static/media/BC12UTEAMS.67b856bf.png"
+  },
+  {
+    "revision": "c1df57a5600e25b7840b926bfec40e2c",
+    "url": "/BuckeyeCharge/static/media/BCLogo-blk-sml.c1df57a5.png"
+  },
+  {
+    "revision": "01106f0a73c61469d7262fcb35e90f69",
+    "url": "/BuckeyeCharge/static/media/BCLogo-clr.01106f0a.png"
+  },
+  {
     "revision": "71017223b16dbcc804ec69cfd3a5348a",
     "url": "/BuckeyeCharge/static/media/Homan8U.71017223.JPG"
   },
@@ -84,8 +84,16 @@ self.__precacheManifest = [
     "url": "/BuckeyeCharge/static/media/Yoder14U.0f7972b6.JPG"
   },
   {
+    "revision": "8b4feffdb8a8783e23aff1ee4cfa8f9b",
+    "url": "/BuckeyeCharge/static/media/catch.8b4feffd.JPG"
+  },
+  {
     "revision": "4501c2285f2f973a05a293681e438722",
     "url": "/BuckeyeCharge/static/media/dugout.4501c228.JPG"
+  },
+  {
+    "revision": "c5a4196214d9cf945a4d62e189830bda",
+    "url": "/BuckeyeCharge/static/media/mark-duffel-352915-unsplash2.c5a41962.jpg"
   },
   {
     "revision": "5afe12bc7bb187b83142589d2487c893",
@@ -102,13 +110,5 @@ self.__precacheManifest = [
   {
     "revision": "91e97e42450023e988f264a6d091f3f3",
     "url": "/BuckeyeCharge/static/media/spinner.91e97e42.svg"
-  },
-  {
-    "revision": "9fa9f64e6c940a608a89cbf1860dd754",
-    "url": "/BuckeyeCharge/static/media/ABPitchingbg.9fa9f64e.jpg"
-  },
-  {
-    "revision": "bfff05da6b799876047fca4c2d876398",
-    "url": "/BuckeyeCharge/index.html"
   }
-];
+]);
